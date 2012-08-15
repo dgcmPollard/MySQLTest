@@ -2,7 +2,7 @@
 # Author: David Pollard (david@pollardsetfilles.com)
 
 This is a simple test project for a first repository in GitHub
-MySQL test is a real working python script that test access
+MySQL test is a real working python script that tests access
 to NumPy, SciPy and a MySQL database
 
 This project is unlikely to be useful to others.
