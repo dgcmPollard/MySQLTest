@@ -11,9 +11,9 @@ def test_numpy():
     import numpy as np
     ary = np.arange(10).reshape(2,5)
     b= 3 * ary
-    print "ary is", ary
+    print "ary is:\n", ary
     print "Info about array: shape", ary.shape, "Dimensions ", ary.ndim, "Type ", ary.dtype.name, "Size ", ary.size
-    print "b is", b
+    print "b is:\n", b
     return None
 
 
